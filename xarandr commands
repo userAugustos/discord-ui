@@ -1,1 +1,0 @@
-cvt 1360 768 60 && gtf 1360 768 60 -x && xrandr --newmode "1360x768_60.00"  84.72  1360 1424 1568 1776  768 769 772 795  -HSync +Vsync && xrandr --addmode VGA1 "1360x768_60.00"
